@@ -1,5 +1,5 @@
 
-"""Snake, classic arcade game.
+"""Snake, classic ame.
 Exercises
 1. How do you make the snake faster or slower?
 2. How can you make the snake go around the edges?
